@@ -1,2 +1,3 @@
-esta es una prueba 
+esta es una prueba, que se ajusta
+y agregamos una nueva linea
 para curso github
