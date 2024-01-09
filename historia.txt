@@ -1,6 +1,7 @@
 esta es una prueba, que se ajusta
 y agregamos una nueva linea
 para curso github
+prueba con segundo usuario
 
 agragando una nueva linea 
 prueba commit mensjae
