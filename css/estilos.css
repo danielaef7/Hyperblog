@@ -1,5 +1,6 @@
 body
 {
+    background: #1e1f24;
     color: purple;
     text-align: center;
     font-family: 'Arial';
@@ -16,6 +17,11 @@ body
     margin: 0;
     padding: 0.5cm;
 }
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
 #container
 {
     width: 70%;
@@ -28,6 +34,7 @@ body
 {
     font-size: 40px;
 }
+<<<<<<< HEAD
 #footer
 {
     background: #777;
@@ -35,3 +42,10 @@ body
     text-align: center;
     padding: 0.5em;
 }
+=======
+#post
+{
+    background: white;
+    padding: 1cm;
+}
+>>>>>>> 97555ff342c8315fb0db387de1b194ec86e97b7c
